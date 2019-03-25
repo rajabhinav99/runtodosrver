@@ -1,0 +1,19 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "todoName": "Samsung",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "todoName": "awesome",
+      "status": "incompleted"
+    },
+    {
+      "id": 3,
+      "todoName": "ankitraj",
+      "status": "completed"
+    }
+  ]
+}
